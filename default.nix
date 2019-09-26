@@ -1,3 +1,9 @@
-{pkgs ? import <nixpkgs> {} }:
+{ pkgs ? import <nixpkgs> {} }:
 
-pkgs.haskellPackages.ghcWithPackages (self : [ self.hakyll ])
+with pkgs;
+
+mkShell {
+  buildInputs = [
+    (haskellPackages.ghcWithPackages (s : [ s.hakyll ])) 
+  ];
+}

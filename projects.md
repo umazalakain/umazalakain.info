@@ -1,0 +1,32 @@
+---
+title: Projects
+---
+
+You will always find a more complete list at [github][github], but here are some
+interesting projects I contributed to:
+
+- [Type-checking session-typed π-calculus with Coq][thesis]: my master's
+  dissertation at the University of Glasgow.
+- [Evidence-producing problem solvers in Agda][report]: my final year project at
+  the University of Strathclyde.
+- [Language of Shakespeare's Plays][textlab]: joint undergraduate English-CIS
+  text analysis project.
+- [antxetamedia][amv2]: [website][antxetamedia] for a local basque
+  radio station.
+- [snorkels-hs][snorkels-hs]: implementation of a strategic board game
+  written in haskell.
+- [An introduction to GPG][GPG]: small introduction to GPG, in Spanish.
+- [Django][django]: the python web framework with too many features.
+- [lightweight-motion][lm]: lightweight RPi-ready motion detection for USB and
+  HTTP(S) cameras.
+
+[github]: https://github.com/umazalakain/
+[thesis]: /static/thesis.pdf
+[report]: /static/report.pdf
+[textlab]: http://losp.us
+[antxetamedia]: https://antxetamedia.eus/
+[amv2]: https://github.com/GISAElkartea/amv2
+[snorkels-hs]: https://github.com/umazalakain/snorkels-hs
+[gpg]: /static/gpg.pdf
+[django]: https://code.djangoproject.com/query?owner=unaizalakain
+[lm]: https://github.com/umazalakain/lightweight-motion
