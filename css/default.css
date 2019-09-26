@@ -41,7 +41,15 @@ main h1 {
   margin: 1.5em 0 1.5em 0;
 }
 
-img[alt=cartoon] {
-  width: 100px;
+figure {
   float: right;
+  margin: 0;
 }
+
+  figure img{ 
+    width: 100px;
+  }
+
+  figure figcaption{ 
+    display: none;
+  }

@@ -2,18 +2,12 @@
 title: Contact
 ---
 
-![cartoon](/static/me.jpg)\
-
 ## Mail
 
 Substitute all y-s with i-s:
 
-- Work: <uma@gysa-elkartea.org>
-- Personal: <ping@umazalakayn.info>
-
-## Social
-
-- GitHub: <https://github.com/umazalakain/>
+- research: <u.zalakayn.1@research.gla.ac.uk>
+- personal: <ping@umazalakayn.info>
 
 ## GPG
 
@@ -26,4 +20,4 @@ Substitute all y-s with i-s:
     <input type="submit" value="find trust paths to me" />
 </form>
 
-- [Public key](/static/pubkey.asc)
+- [public key](/static/pubkey.asc)
