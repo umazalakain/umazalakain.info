@@ -43,7 +43,7 @@ main h1 {
 
 figure {
   float: right;
-  margin: 0;
+  margin: 0 0 2em 2em;
 }
 
   figure img{ 
