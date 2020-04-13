@@ -11,8 +11,6 @@ interesting projects I contributed to:
   the University of Strathclyde.
 - [language of Shakespeare's plays][textlab]: joint undergraduate English-CIS
   text analysis project.
-- [antxetamedia][amv2]: [website][antxetamedia] for a local basque
-  radio station.
 - [snorkels-hs][snorkels-hs]: implementation of a strategic board game
   written in haskell.
 - [an introduction to GPG][GPG]: small introduction to GPG, in Spanish.
@@ -24,8 +22,6 @@ interesting projects I contributed to:
 [thesis]: /static/thesis.pdf
 [report]: /static/report.pdf
 [textlab]: http://losp.us
-[antxetamedia]: https://antxetamedia.eus/
-[amv2]: https://github.com/GISAElkartea/amv2
 [snorkels-hs]: https://github.com/umazalakain/snorkels-hs
 [gpg]: /static/gpg.pdf
 [django]: https://code.djangoproject.com/query?owner=unaizalakain
