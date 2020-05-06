@@ -5,6 +5,7 @@ title: Projects
 You will always find a more complete list at [github][github], but here are some
 interesting projects I contributed to:
 
+- [π with leftovers: a mechanisation in Agda][pi-with-leftovers]: mechanising the π-calculus with linear, graded and shared types using leftover typing.
 - [type-checking session-typed π-calculus with Coq][thesis]: my master's
   dissertation at the University of Glasgow.
 - [evidence-producing problem solvers in Agda][report]: my final year project at
@@ -19,6 +20,7 @@ interesting projects I contributed to:
   HTTP(S) cameras.
 
 [github]: https://github.com/umazalakain/
+[pi-with-leftovers]: /static/typing-linear-pi.pdf
 [thesis]: /static/thesis.pdf
 [report]: /static/report.pdf
 [textlab]: http://losp.us
