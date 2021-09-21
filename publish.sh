@@ -1,3 +1,3 @@
 #!/bin/sh
 
-scp -r _site/* www@umazalakain.info:umazalakain.info/
+rsync -av --delete  _site/* www@umazalakain.info:umazalakain.info/

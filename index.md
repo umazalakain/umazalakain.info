@@ -14,8 +14,8 @@ Sometimes I [tweet][twitter].
 
 # Research Interests
 
-I am mainly interested in programming language theory, type theory, and machine verification.
-During my PhD I am working on the machine verification of process calculi.
+I am interested in programming language theory, process calculi, type theory, and machine verification.
+During my PhD I am working on the **machine verification of typed process calculi**.
 
 # Internships and Professional Experience
 
@@ -43,6 +43,21 @@ During my PhD I am working on the machine verification of process calculi.
 # Invited Talks and Participations
 
 <dl>
+  <dt>Theorem Proving with Dependent Types in Agda</dt>
+  <dd>
+    <p class="venue">Formal Analysis, Theory & Algorithms Seminar, 2021</p>
+  </dd>
+
+  <dt>An Introduction to Session Types</dt>
+  <dd>
+    <p class="venue">Mathematically Structured Programming 101, 2020</p>
+  </dd>
+
+  <dt>Mechanising the Linear π-calculus</dt>
+  <dd>
+    <p class="venue">Languages, Systems, and Data Seminar, 2020</p>
+  </dd>
+
   <dt>π with leftovers: a mechanisation in Agda</dt>
   <dd>
     <p class="venue">Programming Languages at the University of Glasgow, 2020</p>
@@ -59,12 +74,6 @@ During my PhD I am working on the machine verification of process calculi.
   <dd>
     <p class="venue">Student talks at SPLV'19</p>
     <p class="venue">Student talks at BehAPI</p>
-  </dd>
-
-  <dt>An Introduction to GPG</dt>
-  <dd>
-    <p class="venue">TODO</p>
-    <p class="talk"><a href="/static/gpg.pdf">Slides</a></p>
   </dd>
 </dl>
 

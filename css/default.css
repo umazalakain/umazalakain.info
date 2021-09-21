@@ -1,7 +1,6 @@
 body{
   padding: 2em 15% 2em 15%;
   font-family: monospace;
-  line-height: 1.4em;
 }
 
 a {
@@ -41,13 +40,13 @@ dd p {
 
 dd .paper-authorship {
     display: inline-block;
-    width: 75%;
+    width: 65%;
     vertical-align: top;
 }
 
 dd .paper-links {
     display: inline-block;
-    width: 20%;
+    width: 30%;
 }
 
 header nav {

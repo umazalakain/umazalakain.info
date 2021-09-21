@@ -7,7 +7,7 @@ import           Hakyll
 --------------------------------------------------------------------------------
 main :: IO ()
 main = hakyll $ do
-    match "static/*" $ do
+    match "static/**" $ do
         route   idRoute
         compile copyFileCompiler
 
