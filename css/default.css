@@ -1,5 +1,5 @@
 body{
-  padding: 2em 25% 2em 25%;
+  padding: 2em 15% 2em 15%;
   font-family: monospace;
   line-height: 1.4em;
 }
@@ -11,15 +11,43 @@ a {
 
 ul {
   list-style: inside square;
-  padding: 0;
+  padding-left: 0;
 }
 
-ul li {
-  margin-top: 1em;
+ul ul {
+  padding-left: 2em;
+}
+
+ul.paper-links li {
+  margin: 0;
 }
 
 header {
   font-size: 0;
+}
+
+dt {
+    margin: 2em 0 0 0;
+    font-weight: bold;
+}
+
+dd {
+    margin: 0;
+}
+
+dd p {
+    margin: 0;
+}
+
+dd .paper-authorship {
+    display: inline-block;
+    width: 75%;
+    vertical-align: top;
+}
+
+dd .paper-links {
+    display: inline-block;
+    width: 20%;
 }
 
 header nav {
@@ -37,8 +65,12 @@ header nav {
       margin-left: 2em;
     }
 
+main h1.page-title {
+  font-size: 2.5em;
+}
+
 main h1 {
-  margin: 1.5em 0 1.5em 0;
+  margin: 2em 0 1em 0;
 }
 
 figure {
