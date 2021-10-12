@@ -13,7 +13,7 @@ title: Articles, Talks, and Publications
   </div>
   <ul class="paper-links">
   <li class="paper"><a href="/static/ZDb21/paper.pdf">Extended abstract</a></li>
-  <li class="recording"><a href="/static/ZDb21/presentation.mp4">Presentation recording</a></li>
+  <li class="recording"><a href="https://youtu.be/PACdnRrzLSg">Presentation recording</a></li>
   </ul>
   </dd>
 
