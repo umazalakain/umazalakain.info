@@ -43,6 +43,19 @@ During my PhD I am working on the **machine verification of typed process calcul
 # Invited Talks and Participations
 
 <dl>
+  <dt>
+    Proving in Constructive Mathematics by Programming in Agda (10h seminar series)
+    <a href="https://umazalakain.github.io/agda-bcam/tutorial.html">(link)</a>
+  </dt>
+  <dd>
+    <p class="venue">Basque Center for Applied Mathematics, 2021</p>
+  </dd>
+
+  <dt>Theorem Proving with Dependent Types in Agda</dt>
+  <dd>
+    <p class="venue">Formal Analysis, Theory & Algorithms Seminar, 2021</p>
+  </dd>
+
   <dt>Theorem Proving with Dependent Types in Agda</dt>
   <dd>
     <p class="venue">Formal Analysis, Theory & Algorithms Seminar, 2021</p>
