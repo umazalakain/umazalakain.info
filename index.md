@@ -56,11 +56,6 @@ During my PhD I am working on the **machine verification of typed process calcul
     <p class="venue">Formal Analysis, Theory & Algorithms Seminar, 2021</p>
   </dd>
 
-  <dt>Theorem Proving with Dependent Types in Agda</dt>
-  <dd>
-    <p class="venue">Formal Analysis, Theory & Algorithms Seminar, 2021</p>
-  </dd>
-
   <dt>An Introduction to Session Types</dt>
   <dd>
     <p class="venue">Mathematically Structured Programming 101, 2020</p>
