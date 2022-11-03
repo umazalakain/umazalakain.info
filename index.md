@@ -4,7 +4,9 @@ title: Uma Zalakain
 
 ![a picture of me](/static/me.jpg)
 
-I am a PhD student at the [Formal Methods Research Group][FMRG] at the University of Glasgow.
+I am a Scala engineer doing functional programming for ITV Shows & News.
+
+I was a PhD student at the [Formal Methods Research Group][FMRG] at the University of Glasgow.
 
 My CV is [here](/static/cv.pdf).
 Sometimes I [tweet][twitter].
@@ -14,12 +16,18 @@ Sometimes I [tweet][twitter].
 
 # Research Interests
 
-I am interested in programming language theory, process calculi, type theory, and machine verification.
+I am interested in compilers, programming language theory, process calculi, type theory, and machine verification.
 During my PhD I am working on the **machine verification of typed process calculi**.
 
 # Internships and Professional Experience
 
 <dl>
+  <dt>Functional programming for ITV Shows & News Backend</dt>
+  <dd>
+    <p class="venue">ITV PLC, April 2022 - present</p>
+    <p class="position">Scala Engineer</p>
+  </dd>
+
   <dt>Types and Type Changing Operations for Distributed Data Structures</dt>
   <dd>
     <p class="venue">Microsoft Research Cambridge, 2021</p>
