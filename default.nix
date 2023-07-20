@@ -4,6 +4,6 @@ with pkgs;
 
 mkShell {
   buildInputs = [
-    (haskellPackages.ghcWithPackages (s : [ s.hakyll ])) 
+    lua (haskellPackages.ghcWithPackages (s : [ s.hakyll ])) 
   ];
 }
